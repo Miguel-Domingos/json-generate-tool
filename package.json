@@ -18,14 +18,14 @@
     "json",
     "fake",
     "mocks",
-    "generation"
+    "generate"
   ],
   "author": "Miguel-Domingos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Miguel-Domingos/json-generation/issues"
+    "url": "https://github.com/Miguel-Domingos/json-generate/issues"
   },
-  "homepage": "https://github.com/Miguel-Domingos/json-generation#readme",
+  "homepage": "https://github.com/Miguel-Domingos/json-generate#readme",
   "devDependencies": {
     "@faker-js/faker": "^8.0.2"
   }
