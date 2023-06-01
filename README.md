@@ -1,6 +1,6 @@
 # Json-Generation
 
-A simple and intuitive json generation tool with faker.js to mock data
+A simple and intuitive json generate tool with faker.js to mock data
 
 ## How to use
 

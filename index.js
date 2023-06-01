@@ -72,13 +72,13 @@ function construct(structure, initialValue = 0) {
   return data;
 }
 
-function jsonGenerate(structure) {
+function jsonConstruct(structure) {
   const data = construct(structure);
   return JSON.stringify(data, null, 2);
 }
 
 function main(structure, type) {
-  const data = jsonGenerate(structure);
+  const data = jsonConstruct(structure);
 
   if (type) {
     let file = "";
@@ -95,7 +95,7 @@ function main(structure, type) {
       console.log(`file ${type.name}.json is created successfully🚀.`);
     });
   } else {
-    return data
+    return data;
   }
 }
 
