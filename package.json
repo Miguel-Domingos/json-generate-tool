@@ -1,0 +1,25 @@
+{
+  "name": "json-generate",
+  "version": "1.0.0",
+  "description": "A simple and intuitive json generation tool with faker.js to mock data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Miguel-Domingos/json-generation"
+  },
+  "keywords": [
+    "mock",
+    "data",
+    "faker",
+    "fakerjs",
+    "json",
+    "fake",
+    "mocks",
+    "generation"
+  ],
+  "author": "Miguel-Domingos",
+  "license": "MIT"
+}
