@@ -26,7 +26,7 @@
     "url": "https://github.com/Miguel-Domingos/json-generate/issues"
   },
   "homepage": "https://github.com/Miguel-Domingos/json-generate#readme",
-  "devDependencies": {
+  "dependencies": {
     "@faker-js/faker": "^8.0.2"
   }
 }
